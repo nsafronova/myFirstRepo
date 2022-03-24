@@ -1,3 +1,3 @@
-alert('hello!');
-console.log('hello console!');
-console.log('first log with git!');
+const a = 2;
+let b = 'Вторая переменная';
+
